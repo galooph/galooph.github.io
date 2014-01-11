@@ -1,8 +1,8 @@
 <?xml version="1.0" encoding="utf-8"?>
 <feed xmlns="http://www.w3.org/2005/Atom">
 
-  <title><![CDATA[Dan Smith]]></title>
-  <link href="http://galooph.com/atom.xml" rel="self"/>
+  <title><![CDATA[Category: Truck | Dan Smith]]></title>
+  <link href="http://galooph.com/blog/categories/truck/atom.xml" rel="self"/>
   <link href="http://galooph.com/"/>
   <updated>2014-01-11T23:22:31+00:00</updated>
   <id>http://galooph.com/</id>
@@ -20,35 +20,35 @@
     <id>http://galooph.com/blog/2014/01/11/hilux-surf-error-5-correction-resistance-pump</id>
     <content type="html"><![CDATA[<p>Error code 5 relates to a pair of resistors on the side of the injection pump, at least on the 2.4TD engine.</p>
 
-<p><img class="center" src="http://galooph.com/images/InjectorPumpPicture.jpg"></p>
+<p><img class="center" src="/images/InjectorPumpPicture.jpg"></p>
 
 <p>These resistors are installed when the pump is calibrated and fine tune the timing and fuelling.</p>
 
 <!-- more -->
 
 
-<p><img class="center" src="http://galooph.com/images/grey_ip_resistor.jpg">
-<img class="center" src="http://galooph.com/images/beige_ip_resistor.jpg"></p>
+<p><img class="center" src="/images/grey_ip_resistor.jpg">
+<img class="center" src="/images/beige_ip_resistor.jpg"></p>
 
 <p>I measured both resistors. The grey one was 0.622kΩ while the beige one was open circuit. The insides are potted in epoxy, so I dug out the trusty Dremel and went in.</p>
 
 <p>The original epoxy.</p>
 
-<p><img class="center" src="http://galooph.com/images/grey_ip_resistor_epoxy.jpg"></p>
+<p><img class="center" src="/images/grey_ip_resistor_epoxy.jpg"></p>
 
 <p>After a bit of Dremel action.</p>
 
-<p><img class="center" src="http://galooph.com/images/beige_ip_resistor_post_dremel.jpg"></p>
+<p><img class="center" src="/images/beige_ip_resistor_post_dremel.jpg"></p>
 
 <p>You can see a pair of solder tabs sticking up &ndash; the original resistor, which I ground away, was soldered on here. Judging from the resistor body, it was no more than a standard 0.25W resistor.</p>
 
 <p>The problem now was knowing what value the resistor was originally.</p>
 
-<p>I managed to find a <a href="https://picasaweb.google.com/toddmcclendon/DensoPump?feat=directlink#">scan of the manual</a> for the Denso injector pump. I&rsquo;ve also <a href="http://galooph.com/assets/surf_ip_manual.pdf">converted it into a pdf</a>.</p>
+<p>I managed to find a <a href="https://picasaweb.google.com/toddmcclendon/DensoPump?feat=directlink#">scan of the manual</a> for the Denso injector pump. I&rsquo;ve also <a href="/assets/surf_ip_manual.pdf">converted it into a pdf</a>.</p>
 
 <p>From that, I was able to work out the resistance value from the part numbers. Here&rsquo;s a list linking to the resistors which are available from Farnell. First, the grey one.</p>
 
-<p><img class="center" src="http://galooph.com/images/grey_ip_resistor_part_no.jpg"></p>
+<p><img class="center" src="/images/grey_ip_resistor_part_no.jpg"></p>
 
 <table>
 <thead>
@@ -184,7 +184,7 @@
 
 <p>Now the beige one.</p>
 
-<p><img class="center" src="http://galooph.com/images/beige_ip_resistor_part_no.jpg"></p>
+<p><img class="center" src="/images/beige_ip_resistor_part_no.jpg"></p>
 
 <table>
 <thead>
@@ -324,11 +324,11 @@
 
 <p>Solder the appropriate resistors in.</p>
 
-<p><img class="center" src="http://galooph.com/images/ip_resistors_soldered.jpg"></p>
+<p><img class="center" src="/images/ip_resistors_soldered.jpg"></p>
 
 <p>Now they need sealing from the elements. Check they read ok on a multimeter first though! After a good clean in some isopropyl alcohol, I used some <a href="http://sugru.com/">Sugru</a> to seal them up.</p>
 
-<p><img class="center" src="http://galooph.com/images/ip_resistors_sugru.jpg"></p>
+<p><img class="center" src="/images/ip_resistors_sugru.jpg"></p>
 
 <p>Instead of Sugru, you could use some proper potting compound or even some mastic, but ONLY neutral cure mastic. If the mastic smells of vinegar, don&rsquo;t use it! The acetic acid released as it cures will eat into the resistor wires.</p>
 
