@@ -1,0 +1,27 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Dan Smith]]></title>
+  <link href="http://galooph.com/atom.xml" rel="self"/>
+  <link href="http://galooph.com/"/>
+  <updated>2014-01-11T18:21:50+00:00</updated>
+  <id>http://galooph.com/</id>
+  <author>
+    <name><![CDATA[Dan Smith]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[First Post]]></title>
+    <link href="http://galooph.com/blog/2014/01/11/first-post/"/>
+    <updated>2014-01-11T18:16:06+00:00</updated>
+    <id>http://galooph.com/blog/2014/01/11/first-post</id>
+    <content type="html"><![CDATA[<p>Just testing.</p>
+
+<p>Is this thing on?</p>
+]]></content>
+  </entry>
+  
+</feed>
