@@ -1,0 +1,33 @@
+<?xml version="1.0" encoding="utf-8"?>
+<feed xmlns="http://www.w3.org/2005/Atom">
+
+  <title><![CDATA[Category: Review | Dan Smith]]></title>
+  <link href="http://galooph.com/blog/categories/review/atom.xml" rel="self"/>
+  <link href="http://galooph.com/"/>
+  <updated>2014-01-21T20:43:26+00:00</updated>
+  <id>http://galooph.com/</id>
+  <author>
+    <name><![CDATA[Dan Smith]]></name>
+    
+  </author>
+  <generator uri="http://octopress.org/">Octopress</generator>
+
+  
+  <entry>
+    <title type="html"><![CDATA[Folding USB Charger]]></title>
+    <link href="http://galooph.com/blog/2014/01/21/folding-usb-charger/"/>
+    <updated>2014-01-21T20:18:13+00:00</updated>
+    <id>http://galooph.com/blog/2014/01/21/folding-usb-charger</id>
+    <content type="html"><![CDATA[<p>iPhones and iPads are great when travelling, but the mains USB chargers with UK plugs aren&rsquo;t the easiest things to pack into laptop bags.  The pins on the UK mains plug are bulky and can easily damage other stuff in your bag.</p>
+
+<p>I stumbled across a neat solution; a USB charger with a UK plug that has a folding earth pin.</p>
+
+<p><a href="http://www.amazon.co.uk/gp/product/B00E5IGR32/ref=as_li_ss_il?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00E5IGR32&linkCode=as2&tag=67616c6f6f70682e636f6d-21"><img class="center" src="/images/folding_plug_charger.jpg"></a></p>
+
+<p>These output 2.1A, which is plenty for charging power hungry devices like the iPad.</p>
+
+<p>I bought a couple, so I&rsquo;ll see how they perform in the field.  You can get them direct from <a href="http://www.lindy.co.uk/usb-firewire-c4/usb-mains-adapters-chargers-c240/folding-usb-uk-mains-charger-black-p7022">Lindy</a>, but they&rsquo;re cheaper on <a href="http://www.amazon.co.uk/gp/product/B00E5IGR32/ref=as_li_ss_il?ie=UTF8&camp=1634&creative=19450&creativeASIN=B00E5IGR32&linkCode=as2&tag=67616c6f6f70682e636f6d-21">Amazon</a>.</p>
+]]></content>
+  </entry>
+  
+</feed>
