@@ -109,10 +109,17 @@ task :new_post, :title do |t, args|
     post.puts "layout: post"
     post.puts "title: \"#{title.gsub(/&/,'&amp;')}\""
     post.puts "date: #{Time.now.strftime('%Y-%m-%d %H:%M:%S %z')}"
+    post.puts "published: false"
     post.puts "comments: true"
-    post.puts "categories: "
+    post.puts "categories: []"
+    post.puts "facebook:"
+    post.puts "    image: http://galooph.com/images/"
+    post.puts "twitter_card:"
+    post.puts "    creator: galooph"
+    post.puts "    image: http://galooph.com/images/"
     post.puts "---"
   end
+  system "mate \"#{filename}\""
 end
 
 # usage rake new_page[my-new-page] or rake new_page[my-new-page.html] or rake new_page (defaults to "new-page.markdown")
