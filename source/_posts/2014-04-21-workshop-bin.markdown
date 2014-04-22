@@ -4,6 +4,11 @@ title: "Workshop Bin"
 date: 2014-04-21 23:43:10 +0100
 comments: true
 categories: [Workshop]
+facebook:
+    image: http://galooph.com/images/workshop_bin.jpg
+twitter_card:
+    creator: galooph
+    image: http://galooph.com/images/workshop_bin.jpg
 ---
 I've been looking for a decent sized bin for the workshop. I wanted something metal with a lid, so that I didn't have to worry about setting it on fire if I weld near it.  You'd think it'd be a common requirement, but all I could find were fancy kitchen bins or ridiculously expensive industrial pedal bins.
 
