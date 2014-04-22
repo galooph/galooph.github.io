@@ -4,6 +4,11 @@ title: "Hilux Surf: Error 5 - Correction resistance (Pump)"
 date: 2014-01-11 20:19:25 +0000
 comments: true
 categories: [Hilux Surf, Truck]
+facebook:
+    image: http://galooph.com/images/InjectorPumpPicture.jpg
+twitter_card:
+    creator: galooph
+    image: http://galooph.com/images/InjectorPumpPicture.jpg
 ---
 Error code 5 relates to a pair of resistors on the side of the injection pump, at least on the 2.4TD engine.
 

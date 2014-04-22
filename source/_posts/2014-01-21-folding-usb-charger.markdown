@@ -4,6 +4,11 @@ title: "Folding USB Charger"
 date: 2014-01-21 20:18:13 +0000
 comments: true
 categories: [Review, USB]
+facebook:
+    image: http://galooph.com/images/folding_plug_charger.jpg
+twitter_card:
+    creator: galooph
+    image: http://galooph.com/images/folding_plug_charger.jpg
 ---
 iPhones and iPads are great when travelling, but the mains USB chargers with UK plugs aren't the easiest things to pack into laptop bags.  The pins on the UK mains plug are bulky and can easily damage other stuff in your bag.
 

@@ -4,6 +4,11 @@ title: "New Workshop"
 date: 2014-04-10 22:27:25 +0100
 comments: true
 categories: [Workshop]
+facebook:
+    image: http://galooph.com/images/workshop_front.jpg
+twitter_card:
+    creator: galooph
+    image: http://galooph.com/images/workshop_front.jpg
 ---
 After years of filling the garage at home with tools and equipment, then having to work on my vehicles outside in the lovely UK weather, I've finally bitten the bullet and taken out a lease on an industrial unit.
 
