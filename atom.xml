@@ -4,7 +4,7 @@
   <title><![CDATA[Dan Smith]]></title>
   <link href="http://galooph.com/atom.xml" rel="self"/>
   <link href="http://galooph.com/"/>
-  <updated>2014-04-22T21:59:54+01:00</updated>
+  <updated>2014-12-01T16:48:49+00:00</updated>
   <id>http://galooph.com/</id>
   <author>
     <name><![CDATA[Dan Smith]]></name>
@@ -12,6 +12,38 @@
   </author>
   <generator uri="http://octopress.org/">Octopress</generator>
 
+  
+  <entry>
+    <title type="html"><![CDATA[A Dan Sized Workbench]]></title>
+    <link href="http://galooph.com/blog/2014/12/01/new-post/"/>
+    <updated>2014-12-01T15:27:44+00:00</updated>
+    <id>http://galooph.com/blog/2014/12/01/new-post</id>
+    <content type="html"><![CDATA[<p>With the space I&rsquo;ve got at the workshop, I&rsquo;d planned on building an 8&#8217; x 4&#8217; workbench. I was originally going to weld up a steel frame, but then I spotted a couple of bays of Link-51 pallet racking for sale locally for only £100. The racking beams are rated at 3.5 tonnes per pair, so it&rsquo;s more than strong enough.</p>
+
+<p>I didn&rsquo;t want the worktop to sag in the unsupported middle of the racking so I sourced some second-hand pallet supports from a local company. With 6 pallet supports across the beams, the worktop is in no danger of sagging!</p>
+
+<p><img class="center" src="http://galooph.com/images/workbench3.jpg"></p>
+
+<p>The only issue with the pallet supports was the hooks at either end. For the worktop to be as stable as possible, I wanted it to sit flat on on the beams and pallet supports. The pallet support hooks stuck up 6mm higher. After some careful measuring, I routed out some 6mm deep pockets in the bottom of the first layer of plywood used for the worktop.</p>
+
+<!-- more -->
+
+
+<p><img class="center" src="http://galooph.com/images/workbench2.jpg"></p>
+
+<p>With that sitting nice and flat, I added another 2 sheets of plywood (54mm in total) topped off with a sheet of 6mm steel. The plywood and steel top weigh in at 200kg, so it&rsquo;s not going anywhere. I bolted in two lengths of 40mm x 80mm RHS on each side to tie the racking uprights together and to give me something to bolt the worktop down to. My bench vice is bolted into this too. There&rsquo;s a decent overhang on all sides, so plenty of space for clamps.</p>
+
+<p><img class="center" src="http://galooph.com/images/workbench1.jpg"></p>
+
+<p>I followed the old rule-of-thumb of making the height of the vice jaws about the same height as my elbow. The workbench certainly feels a comfortable height for me, always nice when you&rsquo;re used to desks and kitchen counters being way too low!</p>
+
+<p>The bench is plenty big enough to take axles and other large assemblies and with the front being open, I can get the legs of my shop crane under. No more working on the floor or manually lifting heavy stuff up.</p>
+
+<p>The vice is an old 6&#8221; Record 112, which I think is the second largest one they make. I grabbed mine second-hand off eBay for £100, a bargain considering they&rsquo;re <a href="http://www.amazon.co.uk/gp/product/B0002JT4KG/ref=as_li_tl?ie=UTF8&camp=1634&creative=19450&creativeASIN=B0002JT4KG&linkCode=as2&tag=67616c6f6f70682e636f6d-21&linkId=5M4F26YDEWKKJQTD">over £700 new</a>.</p>
+
+<p>I don&rsquo;t think my bench will stay this clean and tidy for long!</p>
+]]></content>
+  </entry>
   
   <entry>
     <title type="html"><![CDATA[Workshop Bin]]></title>
