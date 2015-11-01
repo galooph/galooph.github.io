@@ -1,0 +1,637 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>The ramblings of galooph</title>
+    <link>http://galooph.com/</link>
+    <description>Recent content on The ramblings of galooph</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 10 Apr 2015 13:19:09 +0100</lastBuildDate>
+    <atom:link href="http://galooph.com/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Marking Yubikeys</title>
+      <link>http://galooph.com/blog/2015/04/10/marking-yubikeys/</link>
+      <pubDate>Fri, 10 Apr 2015 13:19:09 +0100</pubDate>
+      
+      <guid>http://galooph.com/blog/2015/04/10/marking-yubikeys/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a big fan of &lt;a href=&#34;https://www.yubico.com/&#34;&gt;Yubikeys&lt;/a&gt;. They&amp;rsquo;re nice and easy to use and add an extra layer of security. We use them at &lt;a href=&#34;http://codeenigma.com&#34;&gt;Code Enigma&lt;/a&gt; too, which means that I have a bunch of them for various tasks. The problem then becomes identifying which Yubikey is which.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;I could have just used stickers, but as I carry my Yubikeys on my keychain, I didn&amp;rsquo;t think stickers would last very well. A quick enquiry on the Yubikey forum confirmed that the keys are &lt;a href=&#34;http://forum.yubico.com/viewtopic.php?p=7139&#34;&gt;made from ABS&lt;/a&gt;. I&amp;rsquo;ve worked with ABS before and it can be easily sovent welded using acetone.&lt;/p&gt;
+
+&lt;p&gt;A cheap source of some ABS in various colours is the selection packs of filler rods used for heat welding repairs to plastic car body parts. I found a pack on &lt;a href=&#34;http://www.ebay.co.uk/itm/271108796860&#34;&gt;eBay&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/abs_strip.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Using some acetone, I solvent welded the ABS strips onto the edge of my Yubikeys, then trimmed the strips down to size, before sanding them down flush.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/yubikeys_marked_up.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Now, I can quickly identify which Yubikey is which, and they still stack nicely together on my keychain.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>A Dan Sized Workbench</title>
+      <link>http://galooph.com/blog/2014/12/01/a-dan-sized-workbench/</link>
+      <pubDate>Mon, 01 Dec 2014 15:27:44 +0000</pubDate>
+      
+      <guid>http://galooph.com/blog/2014/12/01/a-dan-sized-workbench/</guid>
+      <description>&lt;p&gt;With the space I&amp;rsquo;ve got at the workshop, I&amp;rsquo;d planned on building an 8&amp;rsquo; x 4&amp;rsquo; workbench. I was originally going to weld up a steel frame, but then I spotted a couple of bays of Link-51 pallet racking for sale locally for only £100. The racking beams are rated at 3.5 tonnes per pair, so it&amp;rsquo;s more than strong enough.&lt;/p&gt;
+
+&lt;p&gt;I didn&amp;rsquo;t want the worktop to sag in the unsupported middle of the racking so I sourced some second-hand pallet supports from a local company. With 6 pallet supports across the beams, the worktop is in no danger of sagging!&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/workbench3.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;The only issue with the pallet supports was the hooks at either end. For the worktop to be as stable as possible, I wanted it to sit flat on on the beams and pallet supports. The pallet support hooks stuck up 6mm higher. After some careful measuring, I routed out some 6mm deep pockets in the bottom of the first layer of plywood used for the worktop.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/workbench2.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;With that sitting nice and flat, I added another 2 sheets of plywood (54mm in total) topped off with a sheet of 6mm steel. The plywood and steel top weigh in at 200kg, so it&amp;rsquo;s not going anywhere. I bolted in two lengths of 40mm x 80mm RHS on each side to tie the racking uprights together and to give me something to bolt the worktop down to. My bench vice is bolted into this too. There&amp;rsquo;s a decent overhang on all sides, so plenty of space for clamps.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/workbench1.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;I followed the old rule-of-thumb of making the height of the vice jaws about the same height as my elbow. The workbench certainly feels a comfortable height for me, always nice when you&amp;rsquo;re used to desks and kitchen counters being way too low!&lt;/p&gt;
+
+&lt;p&gt;The bench is plenty big enough to take axles and other large assemblies and with the front being open, I can get the legs of my shop crane under. No more working on the floor or manually lifting heavy stuff up.&lt;/p&gt;
+
+&lt;p&gt;The vice is an old 6&amp;rdquo; Record 112, which I think is the second largest one they make. I grabbed mine second-hand off eBay for £100, a bargain considering they&amp;rsquo;re &lt;a href=&#34;http://www.amazon.co.uk/gp/product/B0002JT4KG/ref=as_li_tl?ie=UTF8&amp;camp=1634&amp;creative=19450&amp;creativeASIN=B0002JT4KG&amp;linkCode=as2&amp;tag=67616c6f6f70682e636f6d-21&amp;linkId=5M4F26YDEWKKJQTD&#34;&gt;over £700 new&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;I don&amp;rsquo;t think my bench will stay this clean and tidy for long!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Workshop Bin</title>
+      <link>http://galooph.com/blog/2014/04/21/workshop-bin/</link>
+      <pubDate>Mon, 21 Apr 2014 23:43:10 +0100</pubDate>
+      
+      <guid>http://galooph.com/blog/2014/04/21/workshop-bin/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;ve been looking for a decent sized bin for the workshop. I wanted something metal with a lid, so that I didn&amp;rsquo;t have to worry about setting it on fire if I weld near it.  You&amp;rsquo;d think it&amp;rsquo;d be a common requirement, but all I could find were fancy kitchen bins or ridiculously expensive industrial pedal bins.&lt;/p&gt;
+
+&lt;p&gt;In the end, I found a store on eBay selling &lt;a href=&#34;http://www.ebay.co.uk/itm/251161514936?ssPageName=STRK:MEWAX:IT&amp;_trksid=p3984.m1423.l2649&#34;&gt;205 litre tapered steel drums&lt;/a&gt; complete with lids for £23.99 (even including delivery!). After adding an old door handle to the lid plus a couple of bungees to secure a bin bag, it&amp;rsquo;s perfect!&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/workshop_bin.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>New Workshop</title>
+      <link>http://galooph.com/blog/2014/04/10/new-workshop/</link>
+      <pubDate>Thu, 10 Apr 2014 22:27:25 +0100</pubDate>
+      
+      <guid>http://galooph.com/blog/2014/04/10/new-workshop/</guid>
+      <description>&lt;p&gt;After years of filling the garage at home with tools and equipment, then having to work on my vehicles outside in the lovely UK weather, I&amp;rsquo;ve finally bitten the bullet and taken out a lease on an industrial unit.&lt;/p&gt;
+
+&lt;p&gt;It&amp;rsquo;s located close to home and is slap bang next to a munitions factory, so security is tight – bonus! It&amp;rsquo;s plenty big enough for the truck and the Lexus to fit inside and still leave plenty of room for working around them.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/workshop_front.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;First up is painting the one remaining bit of bare concrete floor. After that, it&amp;rsquo;s wiring up the electrics and plumbing in the compressed air. I&amp;rsquo;ll get that done before I think of moving all my tools and equipment in.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/workshop_back.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Exciting!&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Folding USB Charger</title>
+      <link>http://galooph.com/blog/2014/01/21/folding-usb-charger/</link>
+      <pubDate>Tue, 21 Jan 2014 20:18:13 +0000</pubDate>
+      
+      <guid>http://galooph.com/blog/2014/01/21/folding-usb-charger/</guid>
+      <description>&lt;p&gt;iPhones and iPads are great when travelling, but the mains USB chargers with UK plugs aren&amp;rsquo;t the easiest things to pack into laptop bags.  The pins on the UK mains plug are bulky and can easily damage other stuff in your bag.&lt;/p&gt;
+
+&lt;p&gt;I stumbled across a neat solution; a USB charger with a UK plug that has a folding earth pin.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    &lt;a href=&#34;http://www.amazon.co.uk/gp/product/B00E5IGR32/ref=as_li_ss_il?ie=UTF8&amp;amp;camp=1634&amp;amp;creative=19450&amp;amp;creativeASIN=B00E5IGR32&amp;amp;linkCode=as2&amp;amp;tag=67616c6f6f70682e636f6d-21&#34;&gt;
+        &lt;img src=&#34;http://galooph.com/images/folding_plug_charger.jpg&#34; /&gt;
+    &lt;/a&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;These output 2.1A, which is plenty for charging power hungry devices like the iPad.&lt;/p&gt;
+
+&lt;p&gt;I bought a couple, so I&amp;rsquo;ll see how they perform in the field.  You can get them direct from &lt;a href=&#34;http://www.lindy.co.uk/usb-firewire-c4/usb-mains-adapters-chargers-c240/folding-usb-uk-mains-charger-black-p7022&#34;&gt;Lindy&lt;/a&gt;, but they&amp;rsquo;re cheaper on &lt;a href=&#34;http://www.amazon.co.uk/gp/product/B00E5IGR32/ref=as_li_ss_il?ie=UTF8&amp;camp=1634&amp;creative=19450&amp;creativeASIN=B00E5IGR32&amp;linkCode=as2&amp;tag=67616c6f6f70682e636f6d-21&#34;&gt;Amazon&lt;/a&gt;.&lt;/p&gt;
+</description>
+    </item>
+    
+    <item>
+      <title>Hilux Surf: Error 5 - Correction resistance (Pump)</title>
+      <link>http://galooph.com/blog/2014/01/11/hilux-surf-error-5---correction-resistance-pump/</link>
+      <pubDate>Sat, 11 Jan 2014 00:00:00 +0000</pubDate>
+      
+      <guid>http://galooph.com/blog/2014/01/11/hilux-surf-error-5---correction-resistance-pump/</guid>
+      <description>&lt;p&gt;Error code 5 relates to a pair of resistors on the side of the injection pump, at least on the 2.4TD engine.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/InjectorPumpPicture.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;These resistors are installed when the pump is calibrated and fine tune the timing and fuelling.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;
+&lt;figure class=&#34;half-width&#34;&gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/grey_ip_resistor.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+
+
+&lt;figure class=&#34;half-width&#34;&gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/beige_ip_resistor.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;I measured both resistors. The grey one was 0.622kΩ while the beige one was open circuit. The insides are potted in epoxy, so I dug out the trusty Dremel and went in.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/grey_ip_resistor_epoxy.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;The original epoxy.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/beige_ip_resistor_post_dremel.jpg&#34; /&gt;
+    
+    
+    &lt;figcaption&gt;
+        &lt;h4&gt;After a bit of Dremel action.&lt;/h4&gt;
+        
+    &lt;/figcaption&gt;
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;You can see a pair of solder tabs sticking up - the original resistor, which I ground away, was soldered on here. Judging from the resistor body, it was no more than a standard 0.25W resistor.&lt;/p&gt;
+
+&lt;p&gt;The problem now was knowing what value the resistor was originally.&lt;/p&gt;
+
+&lt;p&gt;I managed to find a &lt;a href=&#34;https://picasaweb.google.com/toddmcclendon/DensoPump?feat=directlink#&#34;&gt;scan of the manual&lt;/a&gt; for the Denso injector pump. I&amp;rsquo;ve also &lt;a href=&#34;http://galooph.com/assets/surf_ip_manual.pdf&#34;&gt;converted it into a pdf&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;From that, I was able to work out the resistance value from the part numbers. Here&amp;rsquo;s a list linking to the resistors which are available from Farnell. First, the grey one.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/grey_ip_resistor_part_no.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Code&lt;/th&gt;
+&lt;th&gt;Resistance&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;001&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8243rbya/resistor-0-25w-0-1-243r/dp/1751378&#34;&gt;0.243kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;002&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8267rbya/resistor-0-25w-0-1-267r/dp/1751382&#34;&gt;0.267kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;003&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8294rbya/resistor-0-25w-0-1-294r/dp/1751387&#34;&gt;0.294kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;004&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8316rbya/resistor-0-25w-0-1-316r/dp/1751390&#34;&gt;0.316kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;005&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8348rbya/resistor-0-25w-0-1-348r/dp/1751394&#34;&gt;0.348kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;006&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8383rbya/resistor-0-25w-0-1-383r/dp/1751399&#34;&gt;0.384kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;007&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8412rbya/resistor-0-25w-0-1-412r/dp/1751403&#34;&gt;0.412kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;008&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8453rbya/resistor-0-25w-0-1-453r/dp/1751407&#34;&gt;0.453kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;009&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8487rbya/resistor-0-25w-0-1-487r/dp/1751410&#34;&gt;0.487kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;010&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8523rbya/resistor-0-25w-0-1-523r/dp/1751413&#34;&gt;0.523kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;011&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8576rbya/resistor-0-25w-0-1-576r/dp/1751418&#34;&gt;0.576kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;012&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8619rbya/resistor-0-25w-0-1-619r/dp/1751421&#34;&gt;0.619kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;013&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8681rbya/resistor-0-25w-0-1-681r/dp/1751425&#34;&gt;0.681kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;014&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8732rbya/resistor-0-25w-0-1-732r/dp/1751429&#34;&gt;0.732kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;015&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8787rbya/resistor-0-25w-0-1-787r/dp/1751432&#34;&gt;0.787kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;016&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8866rbya/resistor-0-25w-0-1-866r/dp/1751436&#34;&gt;0.866kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;017&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8931rbya/resistor-0-25w-0-1-931r/dp/1751441&#34;&gt;0.931kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;018&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h81k02bya/resistor-0-25w-0-1-1k02/dp/1751445&#34;&gt;1.020kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;019&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h81k1bya/resistor-0-25w-0-1-1k1/dp/1751448&#34;&gt;1.100kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;020&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h81k21bya/resistor-0-25w-0-1-1k21/dp/1751453&#34;&gt;1.210kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;021&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h81k33bya/resistor-0-25w-0-1-1k33/dp/1751457&#34;&gt;1.330kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;022&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h81k43bya/resistor-0-25w-0-1-1k43/dp/1751460&#34;&gt;1.430kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;023&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h868r1bya/resistor-0-25w-0-1-68r1/dp/1751308&#34;&gt;0.068kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;025&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8100rbya/resistor-0-25w-0-1-100r/dp/1751317&#34;&gt;0.100kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;026&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8121rbya/resistor-0-25w-0-1-121r/dp/1751326&#34;&gt;0.121kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;027&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8133kbya/resistor-0-25w-0-1-133k/dp/1751672&#34;&gt;0.133kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;028&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8154rbya/resistor-0-25w-0-1-154r/dp/1751337&#34;&gt;0.154kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;029&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8174rbya/resistor-0-25w-0-1-174r/dp/1751343&#34;&gt;0.174kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;030&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8196rbya/resistor-0-25w-0-1-196r/dp/1751361&#34;&gt;0.196kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;031&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8221rbya/resistor-0-25w-0-1-221r/dp/1751374&#34;&gt;0.221kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Now the beige one.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/beige_ip_resistor_part_no.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;table&gt;
+&lt;thead&gt;
+&lt;tr&gt;
+&lt;th&gt;Code&lt;/th&gt;
+&lt;th&gt;Resistance&lt;/th&gt;
+&lt;/tr&gt;
+&lt;/thead&gt;
+
+&lt;tbody&gt;
+&lt;tr&gt;
+&lt;td&gt;001&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8154rbya/resistor-0-25w-0-1-154r/dp/1751337&#34;&gt;0.154kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;002&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8174rbya/resistor-0-25w-0-1-174r/dp/1751343&#34;&gt;0.174kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;003&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8196rbya/resistor-0-25w-0-1-196r/dp/1751361&#34;&gt;0.196kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;004&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8221rbya/resistor-0-25w-0-1-221r/dp/1751374&#34;&gt;0.221kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;005&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8243rbya/resistor-0-25w-0-1-243r/dp/1751378&#34;&gt;0.243kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;006&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8267rbya/resistor-0-25w-0-1-267r/dp/1751382&#34;&gt;0.267kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;007&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8294rbya/resistor-0-25w-0-1-294r/dp/1751387&#34;&gt;0.294kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;008&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8316rbya/resistor-0-25w-0-1-316r/dp/1751390&#34;&gt;0.316kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;009&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8348rbya/resistor-0-25w-0-1-348r/dp/1751394&#34;&gt;0.348kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;010&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8383rbya/resistor-0-25w-0-1-383r/dp/1751399&#34;&gt;0.383kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;011&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8412rbya/resistor-0-25w-0-1-412r/dp/1751403&#34;&gt;0.412kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;012&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8453rbya/resistor-0-25w-0-1-453r/dp/1751407&#34;&gt;0.453kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;013&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8487rbya/resistor-0-25w-0-1-487r/dp/1751410&#34;&gt;0.487kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;014&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8523rbya/resistor-0-25w-0-1-523r/dp/1751413&#34;&gt;0.523kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;015&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8576rbya/resistor-0-25w-0-1-576r/dp/1751418&#34;&gt;0.576kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;016&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8619rbya/resistor-0-25w-0-1-619r/dp/1751421&#34;&gt;0.619kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;017&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8681rbya/resistor-0-25w-0-1-681r/dp/1751425&#34;&gt;0.681kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;018&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8732rbya/resistor-0-25w-0-1-732r/dp/1751429&#34;&gt;0.732kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;019&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8787rbya/resistor-0-25w-0-1-787r/dp/1751432&#34;&gt;0.782kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;020&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8866rbya/resistor-0-25w-0-1-866r/dp/1751436&#34;&gt;0.866kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;021&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h8931rbya/resistor-0-25w-0-1-931r/dp/1751441&#34;&gt;0.931kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;022&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h81k02bya/resistor-0-25w-0-1-1k02/dp/1751445&#34;&gt;1.020kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;023&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h81k1bya/resistor-0-25w-0-1-1k1/dp/1751448&#34;&gt;1.100kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;024&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h81k21bya/resistor-0-25w-0-1-1k21/dp/1751453&#34;&gt;1.210kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;025&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h81k33bya/resistor-0-25w-0-1-1k33/dp/1751457&#34;&gt;1.330kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;026&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h81k43bya/resistor-0-25w-0-1-1k43/dp/1751460&#34;&gt;1.430kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;027&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h81k58bya/resistor-0-25w-0-1-1k58/dp/1751465&#34;&gt;1.580kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;028&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h81k78bya/resistor-0-25w-0-1-1k78/dp/1751470&#34;&gt;1.780kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;029&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h81k96bya/resistor-0-25w-0-1-1k96/dp/1751474&#34;&gt;1.960kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;030&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h82k21bya/resistor-0-25w-0-1-2k21/dp/1751480&#34;&gt;2.210kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+
+&lt;tr&gt;
+&lt;td&gt;031&lt;/td&gt;
+&lt;td&gt;&lt;a href=&#34;http://uk.farnell.com/te-connectivity-holsworthy/h82k49bya/resistor-0-25w-0-1-2k49/dp/1751485&#34;&gt;2.490kΩ&lt;/a&gt;&lt;/td&gt;
+&lt;/tr&gt;
+&lt;/tbody&gt;
+&lt;/table&gt;
+
+&lt;p&gt;Solder the appropriate resistors in.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/ip_resistors_soldered.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Now they need sealing from the elements. Check they read ok on a multimeter first though! After a good clean in some isopropyl alcohol, I used some &lt;a href=&#34;http://sugru.com/&#34;&gt;Sugru&lt;/a&gt; to seal them up.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/ip_resistors_sugru.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Instead of Sugru, you could use some proper potting compound or even some mastic, but ONLY neutral cure mastic. If the mastic smells of vinegar, don&amp;rsquo;t use it! The acetic acid released as it cures will eat into the resistor wires.&lt;/p&gt;
+
+&lt;p&gt;After all that, I reset the ECU and the code 5 had been eliminated.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

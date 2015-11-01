@@ -1,0 +1,51 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Security on The ramblings of galooph</title>
+    <link>http://galooph.com/categories/security/</link>
+    <description>Recent content in Security on The ramblings of galooph</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 10 Apr 2015 13:19:09 +0100</lastBuildDate>
+    <atom:link href="http://galooph.com/categories/security/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Marking Yubikeys</title>
+      <link>http://galooph.com/blog/2015/04/10/marking-yubikeys/</link>
+      <pubDate>Fri, 10 Apr 2015 13:19:09 +0100</pubDate>
+      
+      <guid>http://galooph.com/blog/2015/04/10/marking-yubikeys/</guid>
+      <description>&lt;p&gt;I&amp;rsquo;m a big fan of &lt;a href=&#34;https://www.yubico.com/&#34;&gt;Yubikeys&lt;/a&gt;. They&amp;rsquo;re nice and easy to use and add an extra layer of security. We use them at &lt;a href=&#34;http://codeenigma.com&#34;&gt;Code Enigma&lt;/a&gt; too, which means that I have a bunch of them for various tasks. The problem then becomes identifying which Yubikey is which.&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;I could have just used stickers, but as I carry my Yubikeys on my keychain, I didn&amp;rsquo;t think stickers would last very well. A quick enquiry on the Yubikey forum confirmed that the keys are &lt;a href=&#34;http://forum.yubico.com/viewtopic.php?p=7139&#34;&gt;made from ABS&lt;/a&gt;. I&amp;rsquo;ve worked with ABS before and it can be easily sovent welded using acetone.&lt;/p&gt;
+
+&lt;p&gt;A cheap source of some ABS in various colours is the selection packs of filler rods used for heat welding repairs to plastic car body parts. I found a pack on &lt;a href=&#34;http://www.ebay.co.uk/itm/271108796860&#34;&gt;eBay&lt;/a&gt;.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/abs_strip.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Using some acetone, I solvent welded the ABS strips onto the edge of my Yubikeys, then trimmed the strips down to size, before sanding them down flush.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/yubikeys_marked_up.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;Now, I can quickly identify which Yubikey is which, and they still stack nicely together on my keychain.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>

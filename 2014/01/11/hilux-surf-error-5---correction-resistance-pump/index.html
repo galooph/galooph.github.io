@@ -1,0 +1,565 @@
+    <!DOCTYPE html>
+<html lang="en-us">
+	<head>
+		<meta charset="utf-8">
+		<meta http-equiv="X-UA-Compatible" content="IE=edge,chrome=1">
+		<meta name="viewport" content="width=device-width, initial-scale=1">
+		<meta name="author" content="">
+		<meta name="description" content="">
+		<meta name="generator" content="Hugo 0.14" />
+		<title>Hilux Surf: Error 5 - Correction resistance (Pump) &middot; Icarus</title>
+		<link rel="shortcut icon" href="http://localhost:1313/images/favicon.ico">
+		<link rel="stylesheet" href="http://localhost:1313/css/style.css">
+		<link rel="stylesheet" href="http://localhost:1313/css/highlight.css">
+		<link href="http://localhost:1313/index.xml" rel="alternate" type="application/rss+xml" title="Icarus" />
+	</head>
+    <body>
+       <nav class="main-nav">
+	
+	
+		<a href='http://localhost:1313/'> <span class="arrow">←</span>Home</a>
+	
+
+	
+		<a href='http://localhost:1313/about'>About</a>
+	
+
+	
+</nav>
+
+        <section id="wrapper">
+            <article class="post">
+                <header>
+                    <h1>Hilux Surf: Error 5 - Correction resistance (Pump)</h1>
+                    <h2 class="headline">January 11, 2014</h2>
+                </header>
+                <section id="post-body">
+                    <p>Error code 5 relates to a pair of resistors on the side of the injection pump, at least on the 2.4TD engine.</p>
+
+<p>
+<figure >
+    
+        <img src="/images/InjectorPumpPicture.jpg" />
+    
+    
+</figure>
+</p>
+
+<p>These resistors are installed when the pump is calibrated and fine tune the timing and fuelling.</p>
+
+<!-- more -->
+
+<p>
+<figure >
+    
+        <img src="/images/grey_ip_resistor.jpg" />
+    
+    
+</figure>
+
+
+<figure >
+    
+        <img src="/images/beige_ip_resistor.jpg" />
+    
+    
+</figure>
+</p>
+
+<p>I measured both resistors. The grey one was 0.622kΩ while the beige one was open circuit. The insides are potted in epoxy, so I dug out the trusty Dremel and went in.</p>
+
+<p>
+<figure >
+    
+        <img src="/images/grey_ip_resistor_epoxy.jpg" />
+    
+    
+    <figcaption>
+        <h4>The original epoxy.</h4>
+        
+    </figcaption>
+    
+</figure>
+</p>
+
+<p>
+<figure >
+    
+        <img src="/images/beige_ip_resistor_post_dremel.jpg" />
+    
+    
+    <figcaption>
+        <h4>After a bit of Dremel action.</h4>
+        
+    </figcaption>
+    
+</figure>
+</p>
+
+<p>You can see a pair of solder tabs sticking up - the original resistor, which I ground away, was soldered on here. Judging from the resistor body, it was no more than a standard 0.25W resistor.</p>
+
+<p>The problem now was knowing what value the resistor was originally.</p>
+
+<p>I managed to find a <a href="https://picasaweb.google.com/toddmcclendon/DensoPump?feat=directlink#">scan of the manual</a> for the Denso injector pump. I&rsquo;ve also <a href="/assets/surf_ip_manual.pdf">converted it into a pdf</a>.</p>
+
+<p>From that, I was able to work out the resistance value from the part numbers. Here&rsquo;s a list linking to the resistors which are available from Farnell. First, the grey one.</p>
+
+<p>
+<figure >
+    
+        <img src="/images/grey_ip_resistor_part_no.jpg" />
+    
+    
+</figure>
+</p>
+
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Resistance</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>001</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8243rbya/resistor-0-25w-0-1-243r/dp/1751378">0.243kΩ</a></td>
+</tr>
+
+<tr>
+<td>002</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8267rbya/resistor-0-25w-0-1-267r/dp/1751382">0.267kΩ</a></td>
+</tr>
+
+<tr>
+<td>003</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8294rbya/resistor-0-25w-0-1-294r/dp/1751387">0.294kΩ</a></td>
+</tr>
+
+<tr>
+<td>004</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8316rbya/resistor-0-25w-0-1-316r/dp/1751390">0.316kΩ</a></td>
+</tr>
+
+<tr>
+<td>005</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8348rbya/resistor-0-25w-0-1-348r/dp/1751394">0.348kΩ</a></td>
+</tr>
+
+<tr>
+<td>006</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8383rbya/resistor-0-25w-0-1-383r/dp/1751399">0.384kΩ</a></td>
+</tr>
+
+<tr>
+<td>007</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8412rbya/resistor-0-25w-0-1-412r/dp/1751403">0.412kΩ</a></td>
+</tr>
+
+<tr>
+<td>008</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8453rbya/resistor-0-25w-0-1-453r/dp/1751407">0.453kΩ</a></td>
+</tr>
+
+<tr>
+<td>009</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8487rbya/resistor-0-25w-0-1-487r/dp/1751410">0.487kΩ</a></td>
+</tr>
+
+<tr>
+<td>010</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8523rbya/resistor-0-25w-0-1-523r/dp/1751413">0.523kΩ</a></td>
+</tr>
+
+<tr>
+<td>011</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8576rbya/resistor-0-25w-0-1-576r/dp/1751418">0.576kΩ</a></td>
+</tr>
+
+<tr>
+<td>012</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8619rbya/resistor-0-25w-0-1-619r/dp/1751421">0.619kΩ</a></td>
+</tr>
+
+<tr>
+<td>013</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8681rbya/resistor-0-25w-0-1-681r/dp/1751425">0.681kΩ</a></td>
+</tr>
+
+<tr>
+<td>014</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8732rbya/resistor-0-25w-0-1-732r/dp/1751429">0.732kΩ</a></td>
+</tr>
+
+<tr>
+<td>015</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8787rbya/resistor-0-25w-0-1-787r/dp/1751432">0.787kΩ</a></td>
+</tr>
+
+<tr>
+<td>016</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8866rbya/resistor-0-25w-0-1-866r/dp/1751436">0.866kΩ</a></td>
+</tr>
+
+<tr>
+<td>017</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8931rbya/resistor-0-25w-0-1-931r/dp/1751441">0.931kΩ</a></td>
+</tr>
+
+<tr>
+<td>018</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h81k02bya/resistor-0-25w-0-1-1k02/dp/1751445">1.020kΩ</a></td>
+</tr>
+
+<tr>
+<td>019</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h81k1bya/resistor-0-25w-0-1-1k1/dp/1751448">1.100kΩ</a></td>
+</tr>
+
+<tr>
+<td>020</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h81k21bya/resistor-0-25w-0-1-1k21/dp/1751453">1.210kΩ</a></td>
+</tr>
+
+<tr>
+<td>021</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h81k33bya/resistor-0-25w-0-1-1k33/dp/1751457">1.330kΩ</a></td>
+</tr>
+
+<tr>
+<td>022</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h81k43bya/resistor-0-25w-0-1-1k43/dp/1751460">1.430kΩ</a></td>
+</tr>
+
+<tr>
+<td>023</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h868r1bya/resistor-0-25w-0-1-68r1/dp/1751308">0.068kΩ</a></td>
+</tr>
+
+<tr>
+<td>025</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8100rbya/resistor-0-25w-0-1-100r/dp/1751317">0.100kΩ</a></td>
+</tr>
+
+<tr>
+<td>026</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8121rbya/resistor-0-25w-0-1-121r/dp/1751326">0.121kΩ</a></td>
+</tr>
+
+<tr>
+<td>027</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8133kbya/resistor-0-25w-0-1-133k/dp/1751672">0.133kΩ</a></td>
+</tr>
+
+<tr>
+<td>028</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8154rbya/resistor-0-25w-0-1-154r/dp/1751337">0.154kΩ</a></td>
+</tr>
+
+<tr>
+<td>029</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8174rbya/resistor-0-25w-0-1-174r/dp/1751343">0.174kΩ</a></td>
+</tr>
+
+<tr>
+<td>030</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8196rbya/resistor-0-25w-0-1-196r/dp/1751361">0.196kΩ</a></td>
+</tr>
+
+<tr>
+<td>031</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8221rbya/resistor-0-25w-0-1-221r/dp/1751374">0.221kΩ</a></td>
+</tr>
+</tbody>
+</table>
+
+<p>Now the beige one.</p>
+
+<p>
+<figure >
+    
+        <img src="/images/beige_ip_resistor_part_no.jpg" />
+    
+    
+</figure>
+</p>
+
+<table>
+<thead>
+<tr>
+<th>Code</th>
+<th>Resistance</th>
+</tr>
+</thead>
+
+<tbody>
+<tr>
+<td>001</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8154rbya/resistor-0-25w-0-1-154r/dp/1751337">0.154kΩ</a></td>
+</tr>
+
+<tr>
+<td>002</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8174rbya/resistor-0-25w-0-1-174r/dp/1751343">0.174kΩ</a></td>
+</tr>
+
+<tr>
+<td>003</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8196rbya/resistor-0-25w-0-1-196r/dp/1751361">0.196kΩ</a></td>
+</tr>
+
+<tr>
+<td>004</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8221rbya/resistor-0-25w-0-1-221r/dp/1751374">0.221kΩ</a></td>
+</tr>
+
+<tr>
+<td>005</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8243rbya/resistor-0-25w-0-1-243r/dp/1751378">0.243kΩ</a></td>
+</tr>
+
+<tr>
+<td>006</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8267rbya/resistor-0-25w-0-1-267r/dp/1751382">0.267kΩ</a></td>
+</tr>
+
+<tr>
+<td>007</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8294rbya/resistor-0-25w-0-1-294r/dp/1751387">0.294kΩ</a></td>
+</tr>
+
+<tr>
+<td>008</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8316rbya/resistor-0-25w-0-1-316r/dp/1751390">0.316kΩ</a></td>
+</tr>
+
+<tr>
+<td>009</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8348rbya/resistor-0-25w-0-1-348r/dp/1751394">0.348kΩ</a></td>
+</tr>
+
+<tr>
+<td>010</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8383rbya/resistor-0-25w-0-1-383r/dp/1751399">0.383kΩ</a></td>
+</tr>
+
+<tr>
+<td>011</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8412rbya/resistor-0-25w-0-1-412r/dp/1751403">0.412kΩ</a></td>
+</tr>
+
+<tr>
+<td>012</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8453rbya/resistor-0-25w-0-1-453r/dp/1751407">0.453kΩ</a></td>
+</tr>
+
+<tr>
+<td>013</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8487rbya/resistor-0-25w-0-1-487r/dp/1751410">0.487kΩ</a></td>
+</tr>
+
+<tr>
+<td>014</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8523rbya/resistor-0-25w-0-1-523r/dp/1751413">0.523kΩ</a></td>
+</tr>
+
+<tr>
+<td>015</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8576rbya/resistor-0-25w-0-1-576r/dp/1751418">0.576kΩ</a></td>
+</tr>
+
+<tr>
+<td>016</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8619rbya/resistor-0-25w-0-1-619r/dp/1751421">0.619kΩ</a></td>
+</tr>
+
+<tr>
+<td>017</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8681rbya/resistor-0-25w-0-1-681r/dp/1751425">0.681kΩ</a></td>
+</tr>
+
+<tr>
+<td>018</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8732rbya/resistor-0-25w-0-1-732r/dp/1751429">0.732kΩ</a></td>
+</tr>
+
+<tr>
+<td>019</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8787rbya/resistor-0-25w-0-1-787r/dp/1751432">0.782kΩ</a></td>
+</tr>
+
+<tr>
+<td>020</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8866rbya/resistor-0-25w-0-1-866r/dp/1751436">0.866kΩ</a></td>
+</tr>
+
+<tr>
+<td>021</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h8931rbya/resistor-0-25w-0-1-931r/dp/1751441">0.931kΩ</a></td>
+</tr>
+
+<tr>
+<td>022</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h81k02bya/resistor-0-25w-0-1-1k02/dp/1751445">1.020kΩ</a></td>
+</tr>
+
+<tr>
+<td>023</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h81k1bya/resistor-0-25w-0-1-1k1/dp/1751448">1.100kΩ</a></td>
+</tr>
+
+<tr>
+<td>024</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h81k21bya/resistor-0-25w-0-1-1k21/dp/1751453">1.210kΩ</a></td>
+</tr>
+
+<tr>
+<td>025</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h81k33bya/resistor-0-25w-0-1-1k33/dp/1751457">1.330kΩ</a></td>
+</tr>
+
+<tr>
+<td>026</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h81k43bya/resistor-0-25w-0-1-1k43/dp/1751460">1.430kΩ</a></td>
+</tr>
+
+<tr>
+<td>027</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h81k58bya/resistor-0-25w-0-1-1k58/dp/1751465">1.580kΩ</a></td>
+</tr>
+
+<tr>
+<td>028</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h81k78bya/resistor-0-25w-0-1-1k78/dp/1751470">1.780kΩ</a></td>
+</tr>
+
+<tr>
+<td>029</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h81k96bya/resistor-0-25w-0-1-1k96/dp/1751474">1.960kΩ</a></td>
+</tr>
+
+<tr>
+<td>030</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h82k21bya/resistor-0-25w-0-1-2k21/dp/1751480">2.210kΩ</a></td>
+</tr>
+
+<tr>
+<td>031</td>
+<td><a href="http://uk.farnell.com/te-connectivity-holsworthy/h82k49bya/resistor-0-25w-0-1-2k49/dp/1751485">2.490kΩ</a></td>
+</tr>
+</tbody>
+</table>
+
+<p>Solder the appropriate resistors in.</p>
+
+<p>
+<figure >
+    
+        <img src="/images/ip_resistors_soldered.jpg" />
+    
+    
+</figure>
+</p>
+
+<p>Now they need sealing from the elements. Check they read ok on a multimeter first though! After a good clean in some isopropyl alcohol, I used some <a href="http://sugru.com/">Sugru</a> to seal them up.</p>
+
+<p>
+<figure >
+    
+        <img src="/images/ip_resistors_sugru.jpg" />
+    
+    
+</figure>
+</p>
+
+<p>Instead of Sugru, you could use some proper potting compound or even some mastic, but ONLY neutral cure mastic. If the mastic smells of vinegar, don&rsquo;t use it! The acetic acid released as it cures will eat into the resistor wires.</p>
+
+<p>After all that, I reset the ECU and the code 5 had been eliminated.</p>
+
+                </section>
+            </article>
+            <footer id="post-meta" class="clearfix">
+                
+                        <img class="avatar" src="http://localhost:1313/images/avatar.png">
+                        <div>
+                            <span class="dark"></span>
+                            <span></span>
+                        </div>
+                    
+                <section id="sharing">
+                    <a class="twitter" href="https://twitter.com/intent/tweet?text=http%3a%2f%2flocalhost%3a1313%2f2014%2f01%2f11%2fhilux-surf-error-5---correction-resistance-pump - Hilux%20Surf%3a%20Error%205%20-%20Correction%20resistance%20%28Pump%29 "><span class="icon-twitter"> Tweet</span></a>
+
+<a class="facebook" href="#" onclick="
+    window.open(
+      'https://www.facebook.com/sharer/sharer.php?u='+encodeURIComponent(location.href),
+      'facebook-share-dialog',
+      'width=626,height=436');
+    return false;"><span class="icon-facebook-rect"> Share</span>
+</a>
+
+                </section>
+            </footer>
+
+            
+
+            <ul id="post-list" class="archive readmore">
+    <h3>Read more</h3>
+    
+    
+        
+        <li>
+            <a href="http://localhost:1313/2015/04/10/marking-yubikeys">Marking Yubikeys<aside class="dates">Apr 10</aside></a>
+        </li>
+        
+   
+    
+        
+        <li>
+            <a href="http://localhost:1313/2014/12/01/a-dan-sized-workbench">A Dan Sized Workbench<aside class="dates">Dec 1</aside></a>
+        </li>
+        
+   
+    
+        
+        <li>
+            <a href="http://localhost:1313/2014/04/21/workshop-bin">Workshop Bin<aside class="dates">Apr 21</aside></a>
+        </li>
+        
+   
+    
+        
+        <li>
+            <a href="http://localhost:1313/2014/04/10/new-workshop">New Workshop<aside class="dates">Apr 10</aside></a>
+        </li>
+        
+   
+    
+        
+        <li>
+            <a href="http://localhost:1313/2014/01/21/folding-usb-charger">Folding USB Charger<aside class="dates">Jan 21</aside></a>
+        </li>
+        
+   
+    
+        
+   
+</ul>
+            <footer id="footer">
+    <p class="small">
+        Powered by <a href="//gohugo.io">Hugo</a>. Theme by <a href="http://github.com/ppoffice">PPOffice</a>.
+    </p>
+</footer>
+        </section>
+
+        <script src="//ajax.googleapis.com/ajax/libs/jquery/2.1.1/jquery.min.js"></script>
+<script src="http://localhost:1313/js/main.js"></script>
+<script src="http://localhost:1313/js/highlight.js"></script>
+<script>hljs.initHighlightingOnLoad();</script>
+
+
+    <script data-no-instant>document.write('<script src="http://'
+        + (location.host || 'localhost').split(':')[0]
+		+ ':1313/livereload.js?mindelay=10"></'
+        + 'script>')</script></body>
+</html>
