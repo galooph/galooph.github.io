@@ -9,25 +9,25 @@
 
 
 		<meta property="fb:admins" content="576775086" />
-		<meta property="og:title" content="Marking Yubikeys" />
+		<meta property="og:title" content="Repairing a Bosch AL-3640-CV Charger" />
 		<meta property="og:site_name" content="Dan Smith" />
-		<meta property="og:url" content="http://galooph.com/blog/2015/04/10/marking-yubikeys/" />
-		<meta property="og:description" content="I&rsquo;m a big fan of Yubikeys. They&rsquo;re nice and easy to use and add an extra layer of security. We use them at Code Enigma too, which means that I have a bunch of them for various tasks. The problem then becomes identifying which Yubikey is which. I could have just used stickers, but as I carry my Yubikeys on my keychain, I didn&rsquo;t think stickers would last very well. A quick enquiry on the Yubikey forum confirmed that the keys are made from ABS." />
+		<meta property="og:url" content="http://galooph.com/blog/2015/11/13/repairing-a-bosch-al-3640-cv-charger/" />
+		<meta property="og:description" content="My brother has got a Bosch cordless lawnmower that uses 36V battery packs. He presented me with the charger, which was completely dead – no LEDs lit at all when plugged in, and nothing on the output terminals. Checking the circuit board, there was nothing visibly wrong, so it was time to hit Google. I found an old post on a Polish forum that suggested that a 180k‎&#8486; resistor fails. The resistor looked fine, but after desoldering it, it measured open circuit." />
 		<meta property="og:author" content="https://www.facebook.com/galooph" />
-		<meta property="og:image" content="http://galooph.com/images/yubikeys_marked_up.jpg" />
+		<meta property="og:image" content="http://galooph.com/images/bosch-al3640cv-charger.jpg" />
 		<meta property="twitter:card" content="summary" />
 		<meta property="twitter:site" content="galooph" />
-		<meta property="twitter:url" content="http://galooph.com/blog/2015/04/10/marking-yubikeys/" />
-		<meta property="twitter:title" content="Marking Yubikeys" />
-		<meta property="twitter:description" content="I&rsquo;m a big fan of Yubikeys. They&rsquo;re nice and easy to use and add an extra layer of security. We use them at Code Enigma too, which means that I have a bunch of them for various tasks. The problem then becomes identifying which Yubikey is which. I could have just used stickers, but as I carry my Yubikeys on my keychain, I didn&rsquo;t think stickers would last very well. A quick enquiry on the Yubikey forum confirmed that the keys are made from ABS." />
+		<meta property="twitter:url" content="http://galooph.com/blog/2015/11/13/repairing-a-bosch-al-3640-cv-charger/" />
+		<meta property="twitter:title" content="Repairing a Bosch AL-3640-CV Charger" />
+		<meta property="twitter:description" content="My brother has got a Bosch cordless lawnmower that uses 36V battery packs. He presented me with the charger, which was completely dead – no LEDs lit at all when plugged in, and nothing on the output terminals. Checking the circuit board, there was nothing visibly wrong, so it was time to hit Google. I found an old post on a Polish forum that suggested that a 180k‎&#8486; resistor fails. The resistor looked fine, but after desoldering it, it measured open circuit." />
 		<meta property="twitter:creator" content="galooph" />
-		<meta property="twitter:image:src" content="http://galooph.com/images/yubikeys_marked_up.jpg" />
+		<meta property="twitter:image:src" content="http://galooph.com/images/bosch-al3640cv-charger.jpg" />
 
 
 
 
 		<meta name="generator" content="Hugo 0.14" />
-		<title>Marking Yubikeys &middot; The ramblings of galooph</title>
+		<title>Repairing a Bosch AL-3640-CV Charger &middot; The ramblings of galooph</title>
 		<link rel="shortcut icon" href="http://galooph.com/images/favicon.ico">
 		<link rel="stylesheet" href="http://galooph.com/css/style.css">
 		<link rel="stylesheet" href="http://galooph.com/css/highlight.css">
@@ -48,39 +48,50 @@
         <section id="wrapper">
             <article class="post">
                 <header>
-                    <h1>Marking Yubikeys</h1>
-                    <h2 class="headline">April 10, 2015</h2>
+                    <h1>Repairing a Bosch AL-3640-CV Charger</h1>
+                    <h2 class="headline">November 13, 2015</h2>
                 </header>
                 <section id="post-body">
-                    <p>I&rsquo;m a big fan of <a href="https://www.yubico.com/">Yubikeys</a>. They&rsquo;re nice and easy to use and add an extra layer of security. We use them at <a href="http://codeenigma.com">Code Enigma</a> too, which means that I have a bunch of them for various tasks. The problem then becomes identifying which Yubikey is which.</p>
+                    <p>My brother has got a Bosch cordless lawnmower that uses 36V battery packs. He presented me with the charger, which was completely dead – no LEDs lit at all when plugged in, and nothing on the output terminals. Checking the circuit board, there was nothing visibly wrong, so it was time to hit Google.</p>
+
+<p>I found an <a href="http://www.elektroda.pl/rtvforum/topic1001850.html">old post on a Polish forum</a> that suggested that a 180k‎&#8486; resistor fails. The resistor looked fine, but after desoldering it, it measured open circuit. It looks as though this is the startup resistor for the switch mode supply. The original resistor was rated around 1W at a guess, so I replaced it with a 3W version.</p>
+
+<p>
+<figure >
+    
+        <img src="/images/bosch-al3640cv-180k.jpg" />
+    
+    
+</figure>
+</p>
+
+<p><strong>Note: Only poke around in the charger internals if you&rsquo;re confident in your ability to do so! The big capacitor in there is 150&micro;F at 400V and will bite if you don&rsquo;t discharge it safely. I accept no responsibilty if you break your charger or hurt yourself, so there!</strong></p>
 
 <!-- more -->
 
-<p>I could have just used stickers, but as I carry my Yubikeys on my keychain, I didn&rsquo;t think stickers would last very well. A quick enquiry on the Yubikey forum confirmed that the keys are <a href="http://forum.yubico.com/viewtopic.php?p=7139">made from ABS</a>. I&rsquo;ve worked with ABS before and it can be easily sovent welded using acetone.</p>
-
-<p>A cheap source of some ABS in various colours is the selection packs of filler rods used for heat welding repairs to plastic car body parts. I found a pack on <a href="http://www.ebay.co.uk/itm/271108796860">eBay</a>.</p>
+<p>While I was checking over the rest of the circuit board, I noticed a pair of 2k2&#8486; resistors that obviously get fairly warm, so I replaced those too.</p>
 
 <p>
 <figure >
     
-        <img src="/images/abs_strip.jpg" />
+        <img src="/images/bosch-al3640cv-2k2.jpg" />
     
     
 </figure>
 </p>
 
-<p>Using some acetone, I solvent welded the ABS strips onto the edge of my Yubikeys, then trimmed the strips down to size, before sanding them down flush.</p>
+<p>After reassembling everything, it was time to power the charger up. Always fun with offline switch mode supplies, as they can go with a bang. Takes me back to fitting PSU repair kits to Amstrad satellite receivers! I flicked the mains on, and was greeted by a green LED lighting up on the charger.</p>
 
 <p>
 <figure >
     
-        <img src="/images/yubikeys_marked_up.jpg" />
+        <img src="/images/bosch-al3640cv-charger.jpg" />
     
     
 </figure>
 </p>
 
-<p>Now, I can quickly identify which Yubikey is which, and they still stack nicely together on my keychain.</p>
+<p>My brother has since tested the charger on a battery and it works fine.</p>
 
                 </section>
             </article>
@@ -93,7 +104,7 @@
                         </div>
                     </a>
                 <section id="sharing">
-                    <a class="twitter" href="https://twitter.com/intent/tweet?text=http%3a%2f%2fgalooph.com%2fblog%2f2015%2f04%2f10%2fmarking-yubikeys%2f - Marking%20Yubikeys by @galooph"><span class="icon-twitter"> Tweet</span></a>
+                    <a class="twitter" href="https://twitter.com/intent/tweet?text=http%3a%2f%2fgalooph.com%2fblog%2f2015%2f11%2f13%2frepairing-a-bosch-al-3640-cv-charger%2f - Repairing%20a%20Bosch%20AL-3640-CV%20Charger by @galooph"><span class="icon-twitter"> Tweet</span></a>
 
 <a class="facebook" href="#" onclick="
     window.open(
@@ -128,12 +139,12 @@
     
     
         
-        <li>
-            <a href="http://galooph.com/blog/2015/11/13/repairing-a-bosch-al-3640-cv-charger/">Repairing a Bosch AL-3640-CV Charger<aside class="dates">Nov 13</aside></a>
-        </li>
-        
    
     
+        
+        <li>
+            <a href="http://galooph.com/blog/2015/04/10/marking-yubikeys/">Marking Yubikeys<aside class="dates">Apr 10</aside></a>
+        </li>
         
    
     

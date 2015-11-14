@@ -1,0 +1,62 @@
+<?xml version="1.0" encoding="utf-8" standalone="yes" ?>
+<rss version="2.0" xmlns:atom="http://www.w3.org/2005/Atom">
+  <channel>
+    <title>Repair on The ramblings of galooph</title>
+    <link>http://galooph.com/categories/repair/</link>
+    <description>Recent content in Repair on The ramblings of galooph</description>
+    <generator>Hugo -- gohugo.io</generator>
+    <language>en-gb</language>
+    <lastBuildDate>Fri, 13 Nov 2015 22:34:44 +0000</lastBuildDate>
+    <atom:link href="http://galooph.com/categories/repair/index.xml" rel="self" type="application/rss+xml" />
+    
+    <item>
+      <title>Repairing a Bosch AL-3640-CV Charger</title>
+      <link>http://galooph.com/blog/2015/11/13/repairing-a-bosch-al-3640-cv-charger/</link>
+      <pubDate>Fri, 13 Nov 2015 22:34:44 +0000</pubDate>
+      
+      <guid>http://galooph.com/blog/2015/11/13/repairing-a-bosch-al-3640-cv-charger/</guid>
+      <description>&lt;p&gt;My brother has got a Bosch cordless lawnmower that uses 36V battery packs. He presented me with the charger, which was completely dead – no LEDs lit at all when plugged in, and nothing on the output terminals. Checking the circuit board, there was nothing visibly wrong, so it was time to hit Google.&lt;/p&gt;
+
+&lt;p&gt;I found an &lt;a href=&#34;http://www.elektroda.pl/rtvforum/topic1001850.html&#34;&gt;old post on a Polish forum&lt;/a&gt; that suggested that a 180k‎&amp;#8486; resistor fails. The resistor looked fine, but after desoldering it, it measured open circuit. It looks as though this is the startup resistor for the switch mode supply. The original resistor was rated around 1W at a guess, so I replaced it with a 3W version.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/bosch-al3640cv-180k.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;&lt;strong&gt;Note: Only poke around in the charger internals if you&amp;rsquo;re confident in your ability to do so! The big capacitor in there is 150&amp;micro;F at 400V and will bite if you don&amp;rsquo;t discharge it safely. I accept no responsibilty if you break your charger or hurt yourself, so there!&lt;/strong&gt;&lt;/p&gt;
+
+&lt;!-- more --&gt;
+
+&lt;p&gt;While I was checking over the rest of the circuit board, I noticed a pair of 2k2&amp;#8486; resistors that obviously get fairly warm, so I replaced those too.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/bosch-al3640cv-2k2.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;After reassembling everything, it was time to power the charger up. Always fun with offline switch mode supplies, as they can go with a bang. Takes me back to fitting PSU repair kits to Amstrad satellite receivers! I flicked the mains on, and was greeted by a green LED lighting up on the charger.&lt;/p&gt;
+
+&lt;p&gt;
+&lt;figure &gt;
+    
+        &lt;img src=&#34;http://galooph.com/images/bosch-al3640cv-charger.jpg&#34; /&gt;
+    
+    
+&lt;/figure&gt;
+&lt;/p&gt;
+
+&lt;p&gt;My brother has since tested the charger on a battery and it works fine.&lt;/p&gt;
+</description>
+    </item>
+    
+  </channel>
+</rss>
